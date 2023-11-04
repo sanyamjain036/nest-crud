@@ -1,1 +1,1 @@
-web: npm run start:prod
+web: npm install && num build && npm run start:prod
